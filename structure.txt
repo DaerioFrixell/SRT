@@ -1,0 +1,12 @@
+Before added GIT:
+
+- до 28.10.24: нет структуры
+- 28.10.24: добавление разделения  на папки, группы, подразделы
+- 31.10.24:
+1. Rename FLD -> ifld
+2. Change priority by FLD and GROUP
+3. Rename gr -> subgroup
+4. Added colors for all folders.
+
+На момент 31.10.24 методология еще не была внедрена в core-template.
+Только доку записал из листка сюда.
