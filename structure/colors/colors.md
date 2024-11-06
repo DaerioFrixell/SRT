@@ -1,6 +1,8 @@
 - FOLDER - blue
   самый верхний по REAPER standard color, (чтобы сколапсированный формат выглядел не режуще для глаза)
 
+- REC - red
+
 - ifld - orange
   самый верхний левый по REAPER standatr color, (важные элементы близко к красному оттенку)
 
