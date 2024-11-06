@@ -1,0 +1,5 @@
+- chorus: red
+- drop: orange
+- verse: green
+- bridge: yellow
+- instrumental: blue
