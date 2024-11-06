@@ -6,9 +6,7 @@
   - ifld acoustic
 
 - FOLDER vox
-  - main
-  - main <track-part>
-  - back
-  - back <track-part>
+  - male vox
+  - girl vox
 
 e.t.c

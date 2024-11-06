@@ -1,3 +1,12 @@
-# GROUP
+# GROUP - объединение крупных частей
 
-<!-- TODO описание -->
+- FOLDER VOX
+
+  - ifld girl vox
+    - GROUP main
+    - GROUP back
+
+- FOLDER GUITAR
+  - ifld electro
+    - GROUP lead
+    - GROUP rhythm
