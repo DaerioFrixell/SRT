@@ -1,3 +1,17 @@
-# item-name
+# item-name - базовая единица в структуре
 
-<!-- TODO описание -->
+- FOLDER guitars
+  ...
+
+  - subgroup rhythm panarams
+    - <guitar L>
+    - <guitar R>
+
+- FOLDER vox
+  ...
+  - subgroup main vox
+    - <vox L>
+    - <vox C>
+    - <vox R>
+
+e.t.c
