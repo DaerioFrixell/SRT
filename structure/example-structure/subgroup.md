@@ -1,4 +1,4 @@
-# subgroup
+# subgroup - структура для объединения единичных элементов.
 
 - FOLDER guitars
   ...

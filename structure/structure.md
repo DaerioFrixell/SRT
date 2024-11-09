@@ -5,6 +5,7 @@
   <general-item>
 
 - FOLDER
+  - REC
   - ifld
     - GROUP
       - subgroup
